@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvay</h1>
-<h3 align="center">A passionate frontend developer from San Jose, CA. <br /> I recently graduated from San Jose State University and am pursuing a career as a full-stack engineer!</h3>
+<h3 align="center">A passionate web developer <br /> I recently graduated from San Jose State University and am pursuing a career as a full-stack engineer!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
 
