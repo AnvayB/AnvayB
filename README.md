@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvay</h1>
-<h3 align="center">A passionate frontend developer from San Jose, CA. <br /> I recently graduated from San Jose State University and am pursuing a career as a full-stack engineer!</h3>
+<h3 align="center">A passionate frontend developer and recent San Jose State University graduate. I love learning new technologies and I'm pursuing a career as a full-stack engineer!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Bookshelf Editor](https://github.com/AnvayB/Bookshelf-Editor)
 
-- 🌱 I’m currently learning **MERN (in depth), Next.js, TypeScript, DS&A in Python**
+- 🌱 I’m currently learning **MERN (in-depth), Next.js, TypeScript, DS&A in Python**
 
 - 🤝 I’m looking for help with [Clim8](https://github.com/AnvayB/Clim8)
 
