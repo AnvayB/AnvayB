@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anvay</h1>
-<h3 align="center">A passionate web developer <br /> I recently graduated from San Jose State University and am pursuing a career as a full-stack engineer!</h3>
+<h3 align="center">A passionate web developer and recent San Jose State University graduate. <br />  am pursuing a career as a full-stack engineer!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
 
@@ -17,6 +17,8 @@
 - 💬 Ask me about **React, WordPress**
 
 - 📫 How to reach me <b><a href="mailto:anvay.bhanap@gmail.com">anvay.bhanap@gmail.com</a></b>
+
+- ✨ My hobbies include <b>Racquetball, Working Out, Photography, Driving</b>
 
 
 <h3 align="left">Connect with me:</h3>
