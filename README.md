@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/AnvayB/AnvayB/assets/53208269/ff873bc6-fe5d-4031-9da7-a7da67c11e72)
+
 <h1 align="center">Hi 👋, I'm Anvay</h1>
 <h3 align="center">A passionate frontend developer and recent San Jose State University graduate. I love learning new technologies and I'm pursuing a career as a full-stack engineer!</h3>
 
