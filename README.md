@@ -8,11 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb" alt="anvayb" /></a> </p>
 
-- 🔭 I’m currently working on [Bookshelf Builder](https://github.com/AnvayB/Bookshelf-Editor)
+- 🔭 I’m currently working on [Clim8](https://github.com/AnvayB/Clim8)
 
 - 🌱 I’m currently learning **MERN (in-depth), Next.js, TypeScript, DS&A in Python**
-
-- 🤝 I’m looking for help with [Clim8](https://github.com/AnvayB/Clim8)
 
 - 👨‍💻 All of my projects are available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
