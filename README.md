@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Clim8](https://github.com/AnvayB/Clim8)
 
-- 🌱 I’m currently learning **MERN (in-depth), Next.js, TypeScript, DS&A in Python**
+- 🌱 I’m currently learning **Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib), Data Visualization (Tableau, Power BI), and Data Warehouse & Pipeline (SQL, Snowflake, Airflow)**
 
 - 👨‍💻 All of my projects are available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
