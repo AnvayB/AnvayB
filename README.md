@@ -1,20 +1,19 @@
 ![MasterHead](https://github.com/AnvayB/AnvayB/assets/53208269/ff873bc6-fe5d-4031-9da7-a7da67c11e72)
 
 <h1 align="center">Hi 👋, I'm Anvay</h1>
-<h3 align="center">A passionate frontend developer and recent San Jose State University graduate. I love learning new technologies and I'm pursuing a career as a full-stack engineer!</h3>
+<h3 align="center">A data analyst with strong visualization skills, expanding into data pipeline development and cloud. I'm passionate about leveraging AI to transform data into meaningful user experiences!</h3>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb" alt="anvayb" /></a> </p>
 
-- 🔭 I’m currently working on [Clim8](https://github.com/AnvayB/Clim8)
-
-- 🌱 I’m currently learning **Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib), Data Visualization (Tableau, Power BI), and Data Warehouse & Pipeline (SQL, Snowflake, Airflow)**
+- 🌱 I’m currently learning **Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib), Data Visualization (Tableau, Power BI), and Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)**
 
 - 👨‍💻 All of my projects are available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
-- 💬 Ask me about **React, WordPress**
+<!-- - 💬 Ask me about **React, WordPress**
 
 - 📫 How to reach me <b><a href="mailto:anvay.bhanap@gmail.com">anvay.bhanap@gmail.com</a></b>
 
