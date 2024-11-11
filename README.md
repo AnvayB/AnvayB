@@ -15,7 +15,7 @@
 
 <!-- - 💬 Ask me about **React, WordPress** -->
 
-- 📫 How to reach me <b><a href="mailto:anvay.bhanap@gmail.com">anvay.bhanap@gmail.com</a></b>
+- 📫 Reach out to me at <b><a href="mailto:anvay.bhanap@gmail.com">anvay.bhanap@gmail.com</a></b>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -75,6 +75,9 @@
         <a href="https://streamlit.io//" target="_blank" rel="noreferrer">
           <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" />
         </a>
+        <a href="https://posit.co/downloads/" target="_blank" rel="noreferrer">
+          <img src="https://lh6.googleusercontent.com/proxy/Tdz9NhhtMa5sL46AAoZEaEvQfELS-i3GhXeFXpDBHmONYJes-lBCD_nuTovseFvUSFgk_iFSdXiGdqTPpjRcKQiwucRKFiiXy2waz9Aihz1lr71fCjC7ZCEkzI_cx6DyY_ZSOQ9D-e6_" alt="rstudio" width="40" />
+        </a>
       </td>
     </tr>
     <tr>
@@ -94,6 +97,9 @@
         </a>
         <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
           <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40" />
+        </a>
+        <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="spark" height="40" />
         </a>
       </td>
     </tr>
