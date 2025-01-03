@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AnvayB/AnvayB/assets/53208269/ff873bc6-fe5d-4031-9da7-a7da67c11e72)
 
-<h1 align="center">Hi 👋, I'm Anvay</h1>
+<h1 align="center">Hi, I'm Anvay 👋</h1>
 <h3 align="center">A data analyst who specializes in visualization, expanding into data pipeline development and cloud technologies.  I'm passionate about using AI to transform data into meaningful user experiences!</h3>
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib), Data Visualization (Tableau, Power BI), and Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)**
 
-- 👨‍💻 All of my projects are available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
+- 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
 <!-- - 💬 Ask me about **React, WordPress** -->
 
