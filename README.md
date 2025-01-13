@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/AnvayB/AnvayB/assets/53208269/ff873bc6-fe5d-4031-9da7-a7da67c11e72)
 
 <h1 align="center">Hi, I'm Anvay 👋</h1>
-<h3 align="center">A data analyst who specializes in visualization, expanding into data pipeline development and cloud technologies.  I'm passionate about using AI to transform data into meaningful user experiences!</h3>
+<h3 align="center">A data analyst with experience in visualization, data pipeline development, and cloud technologies.  I'm passionate about using AI to transform data into meaningful user experiences!</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
@@ -9,7 +9,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb" alt="anvayb" /></a> </p>
 
-- 🌱 I’m currently learning **Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib), Data Visualization (Tableau, Power BI), and Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)**
+- 🌱 I’m currently learning **Machine Learning Technologies, Big Data Tech & Apps, Distributed Systems for Data Engr**
+
+- 📚 My previous coursework includes 
+  - Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib)
+  - Data Visualization (Tableau, Power BI)
+  - Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)
+
 
 - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
@@ -225,4 +231,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&locale=en"
     alt="anvayb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvayb&" alt="anvayb" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvayb&" alt="anvayb" /></p> -->
