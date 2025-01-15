@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb" alt="anvayb" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Technologies, Big Data Tech & Apps, Distributed Systems for Data Engr**
+- 🌱 I’m currently learning **Machine Learning Technologies, Big Data Tech & Apps, and Distributed Systems for Data Engineering!**
 
 - 📚 My previous coursework includes 
   - Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib)
