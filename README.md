@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/AnvayB/AnvayB/assets/53208269/ff873bc6-fe5d-4031-9da7-a7da67c11e72)
 
 <h1 align="center">Hi, I'm Anvay 👋</h1>
-<h3 align="center">A data analyst with experience in visualization, data pipeline development, and cloud technologies.  I'm passionate about using AI to transform data into meaningful user experiences!</h3>
+<h3 align="center">A data analyst with experience in visualization, data pipeline development, and cloud technologies. I'm passionate about using AI to transform data into meaningful user experiences!</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
@@ -110,6 +110,16 @@
       </td>
     </tr>
     <tr>
+      <td style="padding: 12px; border: 1px solid black; vertical-align: middle;">ML/AI</td>
+      <td style="padding: 12px; border: 1px solid black;">
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></a>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img width="40" src="https://cmdlinetips.com/wp-content/uploads/2021/11/scikit-learn-logo.png" alt="Pandas" title="Pandas"/></a>
+        <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangGraph" title="LangGraph"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40"/></a>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></a>
+      </td>
+    </tr>
+    <tr>
       <td style="padding: 12px; border: 1px solid black; vertical-align: middle;">Frontend</td>
       <td style="padding: 12px; border: 1px solid black;">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -118,6 +128,8 @@
         <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" alt="wordpress" width="40" height="40">
         </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></a>
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
         </a>
