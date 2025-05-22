@@ -6,18 +6,23 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=anvayb" alt="anvayb" /></a> </p>
+<p align="left"><img
+      src="https://github-profile-trophy.vercel.app/?username=anvayb&rank=-?&theme=onedark" alt="anvayb" /> </p>
+
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 - 🌱 I’m currently learning **Machine Learning Technologies, Big Data Tech & Apps, and Distributed Systems for Data Engineering!**
 
-- 📚 My previous coursework includes 
+- 📚 My previous coursework includes
+  - Machine Learning Technologies (scikit-learn, )
+  - Big Data Tech & Apps (PySpark, MapReduce, scikit-learn)
+  - Distributed Systems (MERN stack, AWS (EC2, S3, DynamoDB))
   - Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib)
   - Data Visualization (Tableau, Power BI)
   - Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)
 
 
-- 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
+<!-- - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/) -->
 
 <!-- - 💬 Ask me about **React, WordPress** -->
 
@@ -214,7 +219,7 @@
       <td style="padding: 12px; border: 1px solid black; vertical-align: middle;">Softwares</td>
       <td style="padding: 12px; border: 1px solid black;">
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-          <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="youtube" width="40" height="40" />
+          <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" alt="vscode" width="40" height="40" />
         </a>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
@@ -237,10 +242,11 @@
 </table>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anvayb&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=anvayb&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=1&hide=java, shell, Makefile, Dockerfile, Vue&card_width=330"
     alt="anvayb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged"
     alt="anvayb" /></p>
+
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvayb&" alt="anvayb" /></p> -->
