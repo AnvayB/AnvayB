@@ -164,10 +164,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayb&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=1&hide=java,shell,Makefile,Dockerfile,Vue&card_width=330" alt="anvayb" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged" alt="anvayb" />
+      &nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged" alt="anvayb" />
 </p>
 
 
