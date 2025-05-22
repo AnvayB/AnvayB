@@ -1,7 +1,8 @@
 ![MasterHead](https://github.com/AnvayB/AnvayB/assets/53208269/ff873bc6-fe5d-4031-9da7-a7da67c11e72)
 
 <h1 align="center">Hi, I'm Anvay 👋</h1>
-<h3 align="center">A data analyst with experience in visualization, data pipeline development, and cloud technologies. I'm passionate about using AI to transform data into meaningful user experiences!</h3>
+<p align="center">💻 Data • 📊 Visualization • 🔁 Pipelines • ☁️ Cloud • 🤖 AI </p>
+<h3 align="center">Aspiring data professional with experience in visualization, pipelines, and cloud systems. I'm passionate about using AI and machine learning to build solutions that enhance user experiences and deliver real-world value!</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
@@ -14,11 +15,11 @@
 - 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and Distributed Systems for Data Engineering!**
 
 - 📚 My previous coursework includes
-  - Machine Learning Technologies (scikit-learn, )
-  - Big Data Tech & Apps (PySpark, MapReduce, scikit-learn)
+  - Machine Learning Technologies (scikit-learn, ML workflows (Regression, Classification, Clustering))
+  - Big Data Tech & Apps (PySpark, MapReduce, Hadoop, MLlib)
   - Distributed Systems (MERN stack, AWS (EC2, S3, DynamoDB))
-  - Stats for Data Analysis (Python Pandas, Seaborn, Matplotlib)
-  - Data Visualization (Tableau, Power BI)
+  - Stats for Data Analysis (Pandas, hypothesis testing, regression analysis)
+  - Data Visualization (Tableau, Power BI, Seaborn, Matplotlib)
   - Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)
 
 
@@ -161,12 +162,14 @@
 </table>
 
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anvayb&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=1&hide=java, shell, Makefile, Dockerfile, Vue&card_width=330"
-    alt="anvayb" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayb&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=1&hide=java,shell,Makefile,Dockerfile,Vue&card_width=330" alt="anvayb" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged"
-    alt="anvayb" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged" alt="anvayb" />
+</p>
+
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvayb&" alt="anvayb" /></p> -->
