@@ -4,23 +4,20 @@
 <p align="center">💻 Data • 📊 Visualization • 🔁 Pipelines • ☁️ Cloud • 🤖 AI </p>
 <h3 align="center">Aspiring data professional with experience in visualization, pipelines, and cloud systems. I'm passionate about using AI and machine learning to build solutions that enhance user experiences and deliver real-world value!</h3>
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
-
-<p align="left"><img
+<p align="center"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb&rank=-?&theme=onedark" alt="anvayb" /> </p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-- 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and Distributed Systems for Data Engineering!**
+- 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and the MSDA Final Project!**
 
 - 📚 My previous coursework includes
-  - Machine Learning Technologies (scikit-learn, ML workflows (Regression, Classification, Clustering))
-  - Big Data Tech & Apps (PySpark, MapReduce, Hadoop, MLlib)
-  - Distributed Systems (MERN stack, AWS (EC2, S3, DynamoDB))
-  - Stats for Data Analysis (Pandas, hypothesis testing, regression analysis)
-  - Data Visualization (Tableau, Power BI, Seaborn, Matplotlib)
-  - Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)
+  - Machine Learning Technologies (_scikit-learn, ML workflows (Regression, Classification, Clustering_))
+  - Big Data Tech & Apps (_PySpark, MapReduce, Hadoop, MLlib_)
+  - Distributed Systems (_MERN stack, AWS (EC2, S3, DynamoDB)_)
+  - Stats for Data Analysis (_Pandas, hypothesis testing, regression analysis_)
+  - Data Visualization (_Tableau, Power BI, Seaborn, Matplotlib_)
+  - Data Warehouse & Pipeline (_Snowflake, Airflow, Docker, dbt_)
 
 
 <!-- - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/) -->
