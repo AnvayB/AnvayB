@@ -12,15 +12,15 @@
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-- 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and Distributed Systems for Data Engineering!**
+- 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and the MSDA Project**
 
 - 📚 My previous coursework includes
-  - Machine Learning Technologies (scikit-learn, ML workflows (Regression, Classification, Clustering))
-  - Big Data Tech & Apps (PySpark, MapReduce, Hadoop, MLlib)
-  - Distributed Systems (MERN stack, AWS (EC2, S3, DynamoDB))
-  - Stats for Data Analysis (Pandas, hypothesis testing, regression analysis)
-  - Data Visualization (Tableau, Power BI, Seaborn, Matplotlib)
-  - Data Warehouse & Pipeline (Snowflake, Airflow, Docker, dbt)
+  - Machine Learning Technologies (_scikit-learn, ML workflows (Regression, Classification, Clustering)_)
+  - Big Data Tech & Apps (_PySpark, MapReduce, Hadoop, MLlib_)
+  - Distributed Systems (_MERN stack, AWS (EC2, S3, DynamoDB)_)
+  - Data Warehouse & Pipeline (_Snowflake, Airflow, Docker, dbt_)
+  - Data Visualization (_Tableau, Power BI, Seaborn, Matplotlib_)
+  - Stats for Data Analysis (_Pandas, hypothesis testing, regression analysis_)
 
 
 <!-- - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/) -->
