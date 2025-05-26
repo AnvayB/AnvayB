@@ -4,13 +4,11 @@
 <p align="center">💻 Data • 📊 Visualization • 🔁 Pipelines • ☁️ Cloud • 🤖 AI </p>
 <h3 align="center">Aspiring data professional with experience in visualization, pipelines, and cloud systems. I'm passionate about using AI and machine learning to build solutions that enhance user experiences and deliver real-world value!</h3>
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
-
-<p align="left"><img
+<p align="center"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb&rank=-?&theme=onedark" alt="anvayb" /> </p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
+
 
 - 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and the MSDA Project**
 
@@ -21,6 +19,7 @@
   - Data Warehouse & Pipeline (_Snowflake, Airflow, Docker, dbt_)
   - Data Visualization (_Tableau, Power BI, Seaborn, Matplotlib_)
   - Stats for Data Analysis (_Pandas, hypothesis testing, regression analysis_)
+
 
 
 <!-- - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/) -->
