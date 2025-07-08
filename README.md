@@ -4,11 +4,13 @@
 <p align="center">💻 Data • 📊 Visualization • 🔁 Pipelines • ☁️ Cloud • 🤖 AI </p>
 <h3 align="center">Aspiring data professional with experience in visualization, pipelines, and cloud systems. I'm passionate about using AI and machine learning to build solutions that enhance user experiences and deliver real-world value!</h3>
 
-<p align="center"><img
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
+
+<p align="left"><img
       src="https://github-profile-trophy.vercel.app/?username=anvayb&rank=-?&theme=onedark" alt="anvayb" /> </p>
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
-
 
 - 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and the MSDA Project**
 
@@ -19,7 +21,6 @@
   - Data Warehouse & Pipeline (_Snowflake, Airflow, Docker, dbt_)
   - Data Visualization (_Tableau, Power BI, Seaborn, Matplotlib_)
   - Stats for Data Analysis (_Pandas, hypothesis testing, regression analysis_)
-
 
 
 <!-- - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/) -->
@@ -94,7 +95,7 @@
           <img src="https://astro-provider-logos.s3.us-east-2.amazonaws.com/apache-airflow.png" alt="airflow" width="40" height="40" />
         </a>
         <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-          <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40" />
+          <img src="https://images.seeklogo.com/logo-png/43/2/dbt-logo-png_seeklogo-431111.png" alt="dbt" width="40" height="40" />
         </a>
         <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="spark" height="40" />
@@ -108,6 +109,7 @@
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></a>
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img width="40" src="https://cmdlinetips.com/wp-content/uploads/2021/11/scikit-learn-logo.png" alt="Scikit-learn" title="Scikit-learn"/></a>
         <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></a>
+        <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"><img width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangGraph" title="LangGraph"/></a>
       </td>
     </tr>
     <!-- Frontend Development -->
@@ -162,9 +164,10 @@
 
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged" alt="anvayb" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvayb&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=1&hide=java,shell,Makefile,Dockerfile,Vue&card_width=330" alt="anvayb" />
-      &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=anvayb&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&show=prs_merged" alt="anvayb" />
+      
 </p>
 
 
