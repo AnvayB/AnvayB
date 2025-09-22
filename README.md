@@ -12,7 +12,7 @@
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-- 🌱 I’m currently working on a few projects and preparing for **Deep Learning Technologies, Generative Model Applications, and the MSDA Project**
+- 🌱 I’m currently working on a few projects and taking courses in **Deep Learning Technologies, Generative Model Applications, and the MSDA Project**
 
 - 📚 My previous coursework includes
   - Machine Learning Technologies (_scikit-learn, ML workflows (Regression, Classification, Clustering)_)
