@@ -12,10 +12,12 @@
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-- 🌱 I’m currently working on a few projects and taking courses in **Deep Learning Technologies, Generative Model Applications, and the MSDA Project**
+- 🌱 I’m currently working on a few passion projects and working with my team to complete the  **MSADI Project**
 
 - 📚 My previous coursework includes
-  - Machine Learning Technologies (_scikit-learn, ML workflows (Regression, Classification, Clustering)_)
+  - Generative Model Applications (_LLMs, Gen AI, Model Optimzation, Neural Computing_)
+  - Deep Learning (_ANN, CNN, NLP, GANs_)
+  - Machine Learning (_scikit-learn, ML workflows (Regression, Classification, Clustering)_)
   - Big Data Tech & Apps (_PySpark, MapReduce, Hadoop, MLlib_)
   - Distributed Systems (_MERN stack, AWS (EC2, S3, DynamoDB)_)
   - Data Warehouse & Pipeline (_Snowflake, Airflow, Docker, dbt_)
@@ -23,7 +25,7 @@
   - Stats for Data Analysis (_Pandas, hypothesis testing, regression analysis_)
 
 
-<!-- - 👨‍💻 All of my experience is available at [https://anvayb.netlify.app/](https://anvayb.netlify.app/) -->
+- 👨‍💻 Check out my projects and experience at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
 <!-- - 💬 Ask me about **React, WordPress** -->
 
