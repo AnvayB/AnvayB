@@ -4,7 +4,7 @@
 <p align="center">💻 Data • 📊 Visualization • 🔁 Pipelines • ☁️ Cloud • 🤖 AI </p>
 <h3 align="center">Aspiring data professional with experience in visualization, pipelines, and cloud systems. I'm passionate about using AI and machine learning to build solutions that enhance user experiences and deliver real-world value!</h3>
 
-<img width="743" height="150" alt="github-trophies" src="https://github.com/user-attachments/assets/6d36afc0-df52-4261-a84b-9b85804e881b" />
+<img width="644" height="130" alt="github-trophies" src="https://github.com/user-attachments/assets/6d36afc0-df52-4261-a84b-9b85804e881b" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvayb&label=Profile%20views&color=0e75b6&style=flat" alt="anvayb" /> </p> -->
 
