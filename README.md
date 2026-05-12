@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Anvay 👋</h1>
 <p align="center">💻 Data • 📊 Visualization • 🔁 Pipelines • ☁️ Cloud • 🤖 AI </p>
-<h3 align="center">Full Stack Data Engineer skilled in visualization, pipelines, and cloud. <br /> I enjoy bridging complex infrastructure and AI to create seamless, high-impact user experiences!</h3>
+<h3 align="center">Full Stack Data Engineer skilled in visualization, pipelines, and cloud. <br /> I enjoy bridging complex data structures and AI-driven applications to create valuable, engaging user experiences!</h3>
 
 <img width="644" height="130" alt="github-trophies" src="https://github.com/user-attachments/assets/6d36afc0-df52-4261-a84b-9b85804e881b" />
 
