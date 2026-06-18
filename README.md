@@ -13,10 +13,10 @@
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-- 🌱 I’m currently working on a few passion projects and working with my team to complete the  **MSADI Project**
+- 🌱 I’m currently working as a **Full-Stack Data Engineer** and on a few passion projects in my free time
 
 - 📚 My previous coursework includes
-  - Generative Model Applications (_LLMs, Gen AI, Model Optimzation, Neural Computing_)
+  - Generative Model Applications (_LLMs, Gen AI, Model Optimization, Neural Computing_)
   - Deep Learning (_ANN, CNN, NLP, GANs_)
   - Machine Learning (_scikit-learn, ML workflows (Regression, Classification, Clustering)_)
   - Big Data Tech & Apps (_PySpark, MapReduce, Hadoop, MLlib_)
@@ -28,7 +28,6 @@
 
 - 👨‍💻 Check out my projects and experience at [https://anvayb.netlify.app/](https://anvayb.netlify.app/)
 
-<!-- - 💬 Ask me about **React, WordPress** -->
 
 - 📫 Reach out to me at <b><a href="mailto:anvay.bhanap@gmail.com">anvay.bhanap@gmail.com</a></b>
 
